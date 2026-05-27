@@ -1,1 +1,31 @@
+===== RELATORIO DE TELEMETRIA =====
 
+ID: 1
+Nome: Curiosity
+Distancia: 120.50 km
+Bateria: 85.00%
+Desgaste: 23%
+
+ID: 2
+Nome: Perseverance
+Distancia: 300.80 km
+Bateria: 72.50%
+Desgaste: 41%
+
+ID: 3
+Nome: Spirit
+Distancia: 45.20 km
+Bateria: 90.00%
+Desgaste: 15%
+
+ID: 4
+Nome: Opportunity
+Distancia: 500.10 km
+Bateria: 60.00%
+Desgaste: 55%
+
+ID: 5
+Nome: Viking
+Distancia: 210.75 km
+Bateria: 78.30%
+Desgaste: 33%
